@@ -1,0 +1,3 @@
+program_id,department_id,program_name,degree,duration_years
+1,1,Bachelor of Science in Computer Science,BSc,4.0
+2,1,Master of Applied Computing,MAC,2.0
